@@ -1,0 +1,45 @@
+body {
+    background-color: #f8ecde;
+}
+
+
+
+h1 {
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+
+.custom-heading {
+    
+    padding: 10px;
+    border-radius: 5px;
+}
+.form-group {
+    margin-bottom: 20px; /* Add margin between form inputs */
+}
+
+
+
+.center-button{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px; /* Add margin to the top of the button */
+}
+
+
+
+.dotted {
+    border: 2px dotted #333 !important;
+}
+
+
+.form-control::placeholder {
+    opacity: 0.5;
+}
+
+
